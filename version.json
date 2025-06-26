@@ -1,0 +1,21 @@
+{
+  "version": "1.0.0",
+  "notes": "Versão inicial do conteúdo.",
+  "files": [
+    {
+      "path": "data.json",
+      "checksum": "TODO",
+      "url": "https://raw.githubusercontent.com/palazini/app-tp-db/main/data.json"
+    },
+    {
+      "path": "content/documento_A.pdf",
+      "checksum": "TODO",
+      "url": "https://raw.githubusercontent.com/palazini/app-tp-db/main/content/documento_A.pdf"
+    },
+    {
+      "path": "content/documento_B.pdf",
+      "checksum": "TODO",
+      "url": "https://raw.githubusercontent.com/palazini/app-tp-db/main/content/documento_B.pdf"
+    }
+  ]
+}
