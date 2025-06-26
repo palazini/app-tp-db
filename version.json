@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "notes": "Versão inicial do conteúdo.",
   "files": [
     {
@@ -23,14 +23,14 @@
       "url": "https://raw.githubusercontent.com/palazini/app-tp-db/main/content/pvs/PV%20XX%20-%20MONTAGEM%2025S%20-%20Válvula%206''.pdf"
     },
     {
-      "path": "content/pvs/PV XX - MONTAGEM Filtro Y CI, CIX, CSX e CSSX.pdf",
+      "path": "content/pvs/PV 29 - Filtros Y CI CIX CSX e CSSX.pdf",
       "checksum": "TODO",
-      "url": "https://raw.githubusercontent.com/palazini/app-tp-db/main/content/pvs/PV%20XX%20-%20MONTAGEM%20Filtro%20Y%20CI%2C%20CIX%2C%20CSX%20e%20CSSX.pdf"
+      "url": "https://raw.githubusercontent.com/palazini/app-tp-db/main/content/pvs/PV%2029%20-%20Filtros%20Y%20CI%20CIX%20CSX%20e%20CSSX.pdf"
     },
     {
-      "path": "content/pvs/PV XX - MONTAGEM Filtro Y FIG12SG, FIG14 e FIG16.pdf",
+      "path": "content/pvs/PV 28 - MONTAGEM Filtro Y FIG12SG FIG14 e FIG16.pdf",
       "checksum": "TODO",
-      "url": "https://raw.githubusercontent.com/palazini/app-tp-db/main/content/pvs/PV%20XX%20-%20MONTAGEM%20Filtro%20Y%20FIG12SG%2C%20FIG14%20e%20FIG16.pdf"
+      "url": "https://raw.githubusercontent.com/palazini/app-tp-db/main/content/pvs/PV%2028%20-%20MONTAGEM%20Filtro%20Y%20FIG12SG%20FIG14%20e%20FIG16.pdf"
     },
     {
       "path": "content/adicionais/NTs/9.971.000.039.pdf",
