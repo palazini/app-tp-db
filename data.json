@@ -1,27 +1,27 @@
 {
   "pvs": [
     {
-      "titulo": "PV - MONTAGEM Filtro Y CI, CIX, CSX e CSSX",
-      "arquivo": "content/pvs/PV XX - MONTAGEM Filtro Y CI, CIX, CSX e CSSX.pdf",
+      "titulo": "PV 29 - MONTAGEM Filtro Y CI, CIX, CSX e CSSX",
+      "arquivo": "content/pvs/PV 29 - Filtros Y CI CIX CSX e CSSX.pdf",
       "icone": "file-pdf-box"
     },
     {
-      "titulo": "PV - MONTAGEM Filtro Y FIG12SG, FIG14, FIG16",
-      "arquivo": "content/pvs/PV XX - MONTAGEM Filtro Y FIG12SG, FIG14 e FIG16.pdf",
+      "titulo": "PV 28 - MONTAGEM Filtro Y FIG12SG, FIG14, FIG16",
+      "arquivo": "content/pvs/PV 28 - MONTAGEM Filtro Y FIG12SG FIG14 e FIG16.pdf",
       "icone": "file-pdf-box"
     },
     {
-      "titulo": "PV - MONTAGEM 25S - Piloto",
+      "titulo": "PV XX - MONTAGEM 25S - Piloto",
       "arquivo": "content/pvs/PV XX - MONTAGEM 25S - Piloto.pdf",
       "icone": "file-pdf-box"
     },
     {
-      "titulo": "PV - MONTAGEM 25S - Válvula 1/2'' a 2''",
+      "titulo": "PV XX - MONTAGEM 25S - Válvula 1/2'' a 2''",
       "arquivo": "content/pvs/PV XX - MONTAGEM 25S - Válvula 1'2'' a 2''.pdf",
       "icone": "file-pdf-box"
     },
     {
-      "titulo": "PV - MONTAGEM 25S - Válvula 6''",
+      "titulo": "PV XX - MONTAGEM 25S - Válvula 6''",
       "arquivo": "content/pvs/PV XX - MONTAGEM 25S - Válvula 6''.pdf",
       "icone": "file-pdf-box"
     }
