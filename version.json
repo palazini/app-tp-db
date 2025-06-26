@@ -4,47 +4,47 @@
   "files": [
     {
       "path": "data.json",
-      "checksum": "TODO",
+      "checksum": "75c0187096a5c3d7cd635507036be8ac",
       "url": "https://raw.githubusercontent.com/palazini/app-tp-db/main/data.json"
     },
     {
       "path": "content/pvs/PV XX - MONTAGEM 25S - Piloto.pdf",
-      "checksum": "TODO",
+      "checksum": "93bb55a72bfa1e98d146d1c1c47b68b3",
       "url": "https://raw.githubusercontent.com/palazini/app-tp-db/main/content/pvs/PV%20XX%20-%20MONTAGEM%2025S%20-%20Piloto.pdf"
     },
     {
       "path": "content/pvs/PV XX - MONTAGEM 25S - Válvula 1'2'' a 2''.pdf",
-      "checksum": "TODO",
+      "checksum": "90784b4f49704e330499c5a19fe70816",
       "url": "https://raw.githubusercontent.com/palazini/app-tp-db/main/content/pvs/PV%20XX%20-%20MONTAGEM%2025S%20-%20Válvula%201'2''%20a%202''.pdf"
     },
     {
       "path": "content/pvs/PV XX - MONTAGEM 25S - Válvula 6''.pdf",
-      "checksum": "TODO",
+      "checksum": "eb0d5016e548dc1e877d6609408978db",
       "url": "https://raw.githubusercontent.com/palazini/app-tp-db/main/content/pvs/PV%20XX%20-%20MONTAGEM%2025S%20-%20Válvula%206''.pdf"
     },
     {
       "path": "content/pvs/PV 29 - Filtros Y CI CIX CSX e CSSX.pdf",
-      "checksum": "TODO",
+      "checksum": "66dddcc55058f76c5136e83a90bded62",
       "url": "https://raw.githubusercontent.com/palazini/app-tp-db/main/content/pvs/PV%2029%20-%20Filtros%20Y%20CI%20CIX%20CSX%20e%20CSSX.pdf"
     },
     {
       "path": "content/pvs/PV 28 - MONTAGEM Filtro Y FIG12SG FIG14 e FIG16.pdf",
-      "checksum": "TODO",
+      "checksum": "2e04fc17eb255a9c8c616e9150f2db21",
       "url": "https://raw.githubusercontent.com/palazini/app-tp-db/main/content/pvs/PV%2028%20-%20MONTAGEM%20Filtro%20Y%20FIG12SG%20FIG14%20e%20FIG16.pdf"
     },
     {
       "path": "content/adicionais/NTs/9.971.000.039.pdf",
-      "checksum": "TODO",
+      "checksum": "c97781ed1993aee795932ca9e7fce743",
       "url": "https://raw.githubusercontent.com/palazini/app-tp-db/main/content/adicionais/NTs/9.971.000.039.pdf"
     },
     {
       "path": "content/adicionais/tabelas/tubos_ar_liquido.pdf",
-      "checksum": "TODO",
+      "checksum": "e3c433c3a5417252b217f429615e1645",
       "url": "https://raw.githubusercontent.com/palazini/app-tp-db/main/content/adicionais/tabelas/tubos_ar_liquido.pdf"
     },
     {
       "path": "content/adicionais/tabelas/tubos_vapor.pdf",
-      "checksum": "TODO",
+      "checksum": "8ead1dd00d641b5900e1540d62e73393",
       "url": "https://raw.githubusercontent.com/palazini/app-tp-db/main/content/adicionais/tabelas/tubos_vapor.pdf"
     }
   ]
