@@ -8,14 +8,39 @@
       "url": "https://raw.githubusercontent.com/palazini/app-tp-db/main/data.json"
     },
     {
-      "path": "content/documento_A.pdf",
+      "path": "content/pvs/PV XX - MONTAGEM 25S - Piloto.pdf",
       "checksum": "TODO",
-      "url": "https://raw.githubusercontent.com/palazini/app-tp-db/main/content/documento_A.pdf"
+      "url": "https://raw.githubusercontent.com/palazini/app-tp-db/main/content/pvs/PV%20XX%20-%20MONTAGEM%2025S%20-%20Piloto.pdf"
     },
     {
-      "path": "content/documento_B.pdf",
+      "path": "content/pvs/PV XX - MONTAGEM 25S - Válvula 1'2'' a 2''.pdf",
       "checksum": "TODO",
-      "url": "https://raw.githubusercontent.com/palazini/app-tp-db/main/content/documento_B.pdf"
-    }
+      "url": "https://raw.githubusercontent.com/palazini/app-tp-db/main/content/pvs/PV%20XX%20-%20MONTAGEM%2025S%20-%20Válvula%201'2''%20a%202''.pdf"
+    },
+    {
+      "path": "content/pvs/PV XX - MONTAGEM 25S - Válvula 6''.pdf",
+      "checksum": "TODO",
+      "url": "https://raw.githubusercontent.com/palazini/app-tp-db/main/content/pvs/PV%20XX%20-%20MONTAGEM%2025S%20-%20Válvula%206''.pdf"
+    },
+    {
+      "path": "content/pvs/PV XX - MONTAGEM Filtro Y CI, CIX, CSX e CSSX.pdf",
+      "checksum": "TODO",
+      "url": "https://raw.githubusercontent.com/palazini/app-tp-db/main/content/pvs/PV%20XX%20-%20MONTAGEM%20Filtro%20Y%20CI%2C%20CIX%2C%20CSX%20e%20CSSX.pdf"
+    },
+    {
+      "path": "content/adicionais/NTs/9.971.000.039.pdf",
+      "checksum": "TODO",
+      "url": "https://raw.githubusercontent.com/palazini/app-tp-db/main/content/adicionais/NTs/9.971.000.039.pdf"
+    },
+    {
+      "path": "content/adicionais/tabelas/tubos_ar_liquido.pdf",
+      "checksum": "TODO",
+      "url": "https://raw.githubusercontent.com/palazini/app-tp-db/main/content/adicionais/tabelas/tubos_ar_liquido.pdf"
+    },
+    {
+      "path": "content/adicionais/tabelas/tubos_vapor.pdf",
+      "checksum": "TODO",
+      "url": "https://raw.githubusercontent.com/palazini/app-tp-db/main/content/adicionais/tabelas/tubos_vapor.pdf"
+    },
   ]
 }
