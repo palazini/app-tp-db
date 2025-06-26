@@ -1,0 +1,43 @@
+{
+  "pvs": [
+    {
+      "titulo": "PV 28 - MONTAGEM Filtro Y",
+      "arquivo": "pvs/PV 28.pdf",
+      "icone": "file-pdf-box"
+    },
+    {
+      "titulo": "PV 29 - Filtros Y CI CIX CSX e CSSX",
+      "arquivo": "pvs/PV 29.pdf",
+      "icone": "file-pdf-box"
+    },
+    {
+      "titulo": "PV XX - MONTAGEM 25S - Válvula 6''",
+      "arquivo": "pvs/PV XX.pdf",
+      "icone": "file-pdf-box"
+    }
+  ],
+  "categorias_adicionais": {
+    "Tabelas": {
+      "icone": "table-large",
+      "arquivos": [
+        {
+          "titulo": "MEDIDAS DE CORTE E DOBRA PARA TUBOS DA VÁLVULA 25S – VAPOR",
+          "arquivo": "arquivos_adicionais/tabelas/tubos_vapor.pdf"
+        },
+        {
+          "titulo": "MEDIDAS DE CORTE E DOBRA PARA TUBOS DA VÁLVULA 25S – AR LÍQUIDO",
+          "arquivo": "arquivos_adicionais/tabelas/tubos_ar_liquido.pdf"
+        }
+      ]
+    },
+    "NT - Normas Técnicas": {
+      "icone": "file-document-outline",
+      "arquivos": [
+        {
+          "titulo": "NT - 9.971.000.039",
+          "arquivo": "arquivos_adicionais/NTs/9.971.000.039.pdf"
+        }
+      ]
+    }
+  }
+}
